@@ -19,7 +19,7 @@ The program assigns grades based on the following percentage ranges:
 50 - 59% → 🥉 Grade E
 Below 50% → ❌ Fail (F)
 
-Demo:
+
 ![image](https://github.com/user-attachments/assets/9445dfed-6d2a-42bc-ad30-aa9d6ba0d5f0)
 
 
